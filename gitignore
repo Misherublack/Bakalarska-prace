@@ -1,0 +1,38 @@
+Ini, TOML
+## Ignore Visual Studio Temporary Files and Build Results
+[Ob]j/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.userosscache
+*.sln.docstates
+
+## Ignore VS Code
+.vscode/
+.vs/
+
+## Ignore NuGet Packages
+*.nuget.props
+*.nuget.targets
+project.assets.json
+project.nuget.cache
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Rider / JetBrains IDEs
+.idea/
+
+## OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
