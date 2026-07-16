@@ -1,0 +1,16 @@
+﻿<Application x:Class="Bakalarska_prace.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:c="clr-namespace:Bakalarska_prace"
+             xmlns:local="clr-namespace:Bakalarska_prace"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="styles/Buttons.xaml"/>
+                <ResourceDictionary Source="styles/TextBoxes.xaml"/>
+                <ResourceDictionary Source="styles/general.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
