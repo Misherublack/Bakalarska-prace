@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\jakpo\source\repos\Bakalarska-prace\Bakalarska-prace\Bakalarska-prace\App.xaml
-958803767
+9-620701686
 
-15-2146485167
+15-316592172
 219-1007673055
-MainWindow.xaml;Styles\Buttons.xaml;Styles\general.xaml;Styles\TextBoxes.xaml;Views\GameAgainstPc.xaml;Views\gameChoose.xaml;Views\GameStart.xaml;Views\login.xaml;Views\MainMenu.xaml;
+MainWindow.xaml;Styles\Buttons.xaml;Styles\General.xaml;Styles\TextBoxes.xaml;Views\GameAgainstPcView.xaml;Views\GameChoiceView.xaml;Views\GameStartView.xaml;Views\LoginView.xaml;Views\MainMenuView.xaml;
 
-False
+True
 

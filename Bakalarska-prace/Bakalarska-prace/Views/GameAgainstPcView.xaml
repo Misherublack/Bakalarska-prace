@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="Bakalarska_prace.Views.GameAgainstPcView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bakalarska_prace.Views"
+        mc:Ignorable="d"
+        Height="720" Width="1280">
+    <Grid>
+        <StackPanel Margin="53,91,677,386" >
+            <RadioButton Content="Černá figurka" FontSize="80"/>
+            <RadioButton Content="Bílá figurka" FontSize="80"/>
+        </StackPanel>
+        <Button Margin="244,454,244,122" FontSize="80" Click="Button_Click">Spustit hru</Button>
+    </Grid>
+</UserControl>

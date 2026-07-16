@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bakalarska-prace-server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f837ded79d95769d81b6f2df08d22b1e2f681266")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da54a73a3f24ed8bb9aafd0b77d4ac3f0778155e")]
 [assembly: System.Reflection.AssemblyProductAttribute("bakalarska-prace-server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bakalarska-prace-server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

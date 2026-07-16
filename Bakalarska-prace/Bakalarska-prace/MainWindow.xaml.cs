@@ -21,7 +21,7 @@ namespace WpfChatClient
             AttachConsole(ATTACH_PARENT_PROCESS);
 
             InitializeComponent();
-            MainContent.Content = new login();
+            MainContent.Content = new LoginView();
 
             Console.WriteLine("Konzole spuštěna.");
         }
